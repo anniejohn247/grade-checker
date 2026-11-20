@@ -16,8 +16,6 @@ python ./save_details.py
 
 Follow the prompts to enter your login details. This file stores the authentication information needed to access MMS.
 
-> **Note:** The authentication JSON file can be deleted once you have finished using the program.
-
 ### 2. Start the Grade Checker
 
 Run the following command:
